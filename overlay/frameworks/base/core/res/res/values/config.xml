@@ -445,4 +445,7 @@
         <item>org.lineageos.settings.device.KeyHandler</item>
     </string-array>
 
+    <!-- Whether device has dash charging support -->
+    <bool name="config_hasDashCharger">true</bool>
+
 </resources>
